@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am currently student @42Paris.
+Reach me on Discord @witong42.
+
 <!--
 **witong42/witong42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
