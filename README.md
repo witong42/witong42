@@ -59,21 +59,6 @@ My foundation is built at **Ecole 42 Paris**, where everything is learned from t
 
 ---
 
-## 📈 Vital Signs
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=witong42&theme=dark&hide_border=true" height="150" alt="Streak Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=witong42&layout=compact&theme=dark&hide_border=true" height="150" alt="Languages Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/witong42/witong42/output/snake.svg" alt="Snake Animation" />
-</div>
-
----
-
 <div align="center">
 <i>"Build fast. Scale deep. Stay curious."</i>
 </div>
