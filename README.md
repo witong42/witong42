@@ -1,74 +1,65 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/witong42/witong42/main/assets/rapid_deployment_banner.png" width="100%" alt="William - High Frequency Shipping">
+# William
+**Rapid Prototyping & DevOps**
 
-# ⚡ High-Frequency Shipping
-**MLOps Architect | MVP Rapid Prototyping Specialist | 42 Paris Student**
+*Building complex systems with speed and technical rigor.*
 
-*Deploying production-ready AI infrastructure while others are still reading the paper.*
-
-[![Bounties](https://img.shields.io/badge/Bounties-Active-brightgreen?style=for-the-badge&logo=github)](https://github.com/witong42)
-[![42](https://img.shields.io/badge/Ecole_42-Paris-black?style=for-the-badge&logo=42)](https://42.fr/en/homepage/)
-[![Stack](https://img.shields.io/badge/Stack-Rust_Python_C-blue?style=for-the-badge)]()
+[![42](https://img.shields.io/badge/Ecole_42-Paris-black?style=flat-square&logo=42)](https://42.fr/en/homepage/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/witong42)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
 
 </div>
 
 ---
 
-## 🛠️ The "Silent Salesperson" Service Menu
+## 🚀 AI-Augmented Prototyping
 
-I don't just "apply" for jobs; I deliver fixed-price, high-impact technical solutions.
+I specialize in **Rapid Prototyping** and **DevOps**, leveraging AI as a force multiplier to build, deploy, and scale systems in record time. My workflow bridges the gap between high-level AI orchestration and low-level systems engineering.
 
-| Service | Deliverable | Lead Time |
-| :--- | :--- | :--- |
-| **🚀 The 48h MVP** | From Jupyter Notebook to scalable FastAPI/Next.js production API. | 48 Hours |
-| **🛰️ RAG Pipeline Set-up** | Enterprise-grade vector retrieval (Pinecone/Weaviate) + Guardrails. | 5 Days |
-| **🤖 Autonomous Ops** | Custom background agents for automated branding, research, or auditing. | Custom |
+- **Speed-to-Production**: Turning concepts into working MVPs using modern AI-driven development stacks.
+- **Infrastructure-as-Code**: Automating deployments and managing complex environments.
+- **Systems Rigor**: Applying the "Piscine" mindset to modern software challenges.
 
 ---
 
-## 🛰️ Core Infrastructure (Featured Proof of Work)
+## 🛰️ Core Projects & Research
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/witong42/openspore/main/assets/openspore_logo.png" width="100" alt="OpenSpore"><br>
-      <b>OpenSpore</b><br>
-      <i>Autonomous Swarm Engine</i><br>
-      A minimalist, high-performance Rust orchestrator for parallel sub-spores.
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/witong42/mycelium-extension/main/assets/mycelium_logo.png" width="100" alt="Mycelium"><br>
-      <b>Mycelium Extension</b><br>
-      <i>Technical Branding Engine</i><br>
-      AI-driven knowledge capture & automated LinkedIn documentation pipeline.
-    </td>
-  </tr>
-</table>
+### **OpenSpore** | *Autonomous Agent Orchestration*
+*Researching how to build self-correcting, autonomous swarms.*
+- Built with **Rust** for safety and near-native performance.
+- Implements parallel tool execution and hierarchical task management.
+- Designed as a lightweight engine for autonomous technical tasks.
+
+### **Mycelium Extension** | *Knowledge Management for Developers*
+*Optimizing the developer's second brain with AI.*
+- Socratic journaling interface for documenting complex technical decisions.
+- Knowledge graph visualization for discovering hidden patterns in large codebases.
 
 ---
 
-## ⚔️ The 42 Rigor: Low-Level Proof
+## ⚔️ Technical Bedrock: 42 Paris
 
-Studying at **42 Paris** provides the low-level foundation that typical MLOps engineers lack. My code doesn't just work; it's optimized at the system level for maximum efficiency.
+My foundation is built at **Ecole 42 Paris**, where everything is learned from the ground up without high-level abstractions.
 
-- **Systems Programming**: Built an IRC Server (`ft_irc`) and a Shell (`minishell`) in C.
-- **Microservices Architecture**: Orchestrated multi-tier Docker environments for WordPress/Nginx (`Inception`).
-- **Concurrent Execution**: Solved high-scale synchronization problems (`Philosophers`).
+- **Systems**: `minishell` (Shell in C), `ft_irc` (IRC in C++), `Philosophers` (Concurrency).
+- **DevOps**: `Inception` (Docker infrastructure/virtualization), `ft_server`.
+- **Optimization**: `push_swap` (Sorting logic), `libft`.
 
 ---
 
-## 🧪 Tech Stack: The MLOps Arsenal
+## 🛠️ Tech Arsenal
 
-| Layer | Tools |
+| Category | Tools |
 | :--- | :--- |
-| **Inference/Ops** | ![Rust](https://img.shields.io/badge/rust-%23E02200.svg?style=flat&logo=rust&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) |
-| **Language Systems** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
-| **AI Orchestration** | LangChain, vLLM, Modal, Replicate, Pinecone. |
+| **DevOps & Infrastructure** | Docker, Nginx, Linux, Bash Scripting |
+| **Foundational Systems** | C, C++, Rust, Unix |
+| **Fast Prototyping** | Python, TypeScript, Node.js |
+| **AI Integration** | LLM Orchestration, Prompt Engineering, MLOps flow |
 
 ---
 
-## 📈 Shipping Velocity
+## 📈 Vital Signs
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=witong42&theme=dark&hide_border=true" height="150" alt="Streak Graph" />
@@ -84,5 +75,5 @@ Studying at **42 Paris** provides the low-level foundation that typical MLOps en
 ---
 
 <div align="center">
-<i>"Code is the language of proof. I speak it fluently."</i>
+<i>"Build fast. Scale deep. Stay curious."</i>
 </div>
