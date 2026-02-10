@@ -1,18 +1,13 @@
-# ⚡ William
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&width=435&lines=Rapid+Prototyper;DevOps+Enthusiast;Student+at+42+Paris;Building+faster+with+AI)
-
-> **Systems-grounded engineer bridging the gap between low-level rigor and rapid AI deployment.**
+# William | 42 Paris 🏛️
+**Focus:** `Rapid Prototyping` • `DevOps` • `AI Orchestration`
+*I turn complex ideas into technical reality with speed and precision.*
+---
 
 <details>
-<summary>📂 [ACCESS_RESTRICTED] /home/william/details.md</summary>
+<summary>📂 /home/william/details.md</summary>
 ...
 
 <div align="center">
-# William
-**Rapid Prototyping & DevOps**
-
-*Building complex systems with speed and technical rigor.*
 
 [![42](https://img.shields.io/badge/Ecole_42-Paris-black?style=flat-square&logo=42)](https://42.fr/en/homepage/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/witong42)
