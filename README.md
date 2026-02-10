@@ -1,4 +1,4 @@
-# William | 42 Paris ⚡
+# Hi I'm William | 42 Paris ⚡
 
 `Rapid Prototyping` • `DevOps` • `AI Orchestration`
 
