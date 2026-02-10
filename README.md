@@ -7,7 +7,7 @@
 ---
 
 <details>
-<summary>📂 /home/william/details.md</summary>
+<summary>📂 [SECRET FOLDER] /home/william/details.md</summary>
 ...
 
 <div align="center">
