@@ -1,15 +1,5 @@
 # William | 42 Paris ⚡
 
-`Rapid Prototyping` • `DevOps` • `AI Orchestration`
-
-*Learning to be a fast and efficient software architect in the era of AI • Interested in orchestration and DevOps automation.*
-
----
-
-<details>
-<summary>📂 [SECRET FOLDER] /home/william/details.md</summary>
-...
-
 <div align="center">
 
 [![42](https://img.shields.io/badge/Ecole_42-Paris-black?style=flat-square&logo=42)](https://42.fr/en/homepage/)
@@ -18,7 +8,31 @@
 
 </div>
 
+`Rapid Prototyping` • `DevOps` • `AI Orchestration`
+
+*Learning to be a fast and efficient software architect in the era of AI • Interested in orchestration and DevOps automation.*
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</div>
+
+
 ---
+
+<details>
+<summary>📂 [SECRET FOLDER] /home/william/details.md</summary>
+...
+
 
 ## 🚀 AI-Augmented Prototyping
 
