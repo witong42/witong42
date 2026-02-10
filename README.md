@@ -2,8 +2,7 @@
 
 `Rapid Prototyping` • `DevOps` • `AI Orchestration`
 
-*There’s a famous saying that the best programmers are the "lazy" ones because they’re the only ones who will spend 10 hours building a tool just to avoid 1 hour of manual work.
-- Fast enough to build anything, lazy enough to automate everything.*
+*There’s a famous saying that the best programmers are the "lazy" ones because they’re the only ones who will spend 10 hours building a tool just to avoid 1 hour of manual work. Fast enough to build anything, lazy enough to automate everything.*
 
 ---
 
