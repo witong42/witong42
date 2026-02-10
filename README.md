@@ -47,11 +47,12 @@ I specialize in **Rapid Prototyping** and **DevOps**, leveraging AI as a force m
 
 ## ⚔️ Technical Bedrock: 42 Paris
 
-My foundation is built at **Ecole 42 Paris**, where everything is learned from the ground up without high-level abstractions.
+My foundation is built at **Ecole 42 Paris**, where I mastered the duality of software engineering: building from the ground up without abstractions, while architecting complex, high-level systems.
 
-- **Systems**: `minishell` (Shell in C), `ft_irc` (IRC in C++), `Philosophers` (Concurrency).
-- **DevOps**: `Inception` (Docker infrastructure/virtualization), `ft_server`.
-- **Optimization**: `push_swap` (Sorting logic), `libft`.
+> **$ ls -t projects/**
+> `libft` • `ft_printf` • `get_next_line` • `born2beroot` • `fract'ol` • `push_swap` • `pipex` • `Philosophers` • **`minishell`** • `cub3d` • `netpractice` • `cpp_modules` • **`ft_irc`** • **`Inception`** • **`ft_transcendence`**
+
+*From micro-optimizing C logic to deploying multi-service Docker infrastructures.*
 
 ---
 
@@ -62,7 +63,7 @@ My foundation is built at **Ecole 42 Paris**, where everything is learned from t
 | **DevOps & Infrastructure** | Docker, Nginx, Linux, Bash Scripting |
 | **Foundational Systems** | C, C++, Rust, Unix |
 | **Fast Prototyping** | Python, TypeScript, Node.js |
-| **AI Integration** | LLM Orchestration, Prompt Engineering, MLOps flow |
+| **AI Integration** | LLM Orchestration, Prompt Engineering |
 
 ---
 
