@@ -1,4 +1,4 @@
-# Hi I'm William | 42 Paris ⚡
+# William | 42 Paris ⚡
 
 `Rapid Prototyping` • `DevOps` • `AI Orchestration`
 
@@ -14,7 +14,7 @@
 
 [![42](https://img.shields.io/badge/Ecole_42-Paris-black?style=flat-square&logo=42)](https://42.fr/en/homepage/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/witong42)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
+[![X](https://img.shields.io/badge/X.com-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/witong42)
 
 </div>
 
@@ -32,13 +32,13 @@ I specialize in **Rapid Prototyping** and **DevOps**, leveraging AI as a force m
 
 ## 🛰️ Core Projects & Research
 
-### **OpenSpore** | *Autonomous Agent Orchestration*
+### [**OpenSpore**](https://github.com/witong42/OpenSpore) | *Autonomous Agent Orchestration*
 *Researching how to build self-correcting, autonomous swarms.*
 - Built with **Rust** for safety and near-native performance.
 - Implements parallel tool execution and hierarchical task management.
 - Designed as a lightweight engine for autonomous technical tasks.
 
-### **Mycelium Extension** | *Knowledge Management for Developers*
+### [**Mycelium Extension**](https://github.com/witong42/mycelium-extension) | *Knowledge Management for Developers*
 *Optimizing the developer's second brain with AI.*
 - Socratic journaling interface for documenting complex technical decisions.
 - Knowledge graph visualization for discovering hidden patterns in large codebases.
