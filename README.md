@@ -1,5 +1,14 @@
-<div align="center">
+# ⚡ William
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&width=435&lines=Rapid+Prototyper;DevOps+Enthusiast;Student+at+42+Paris;Building+faster+with+AI)
+
+> **Systems-grounded engineer bridging the gap between low-level rigor and rapid AI deployment.**
+
+<details>
+<summary>📂 [ACCESS_RESTRICTED] /home/william/details.md</summary>
+...
+
+<div align="center">
 # William
 **Rapid Prototyping & DevOps**
 
@@ -62,3 +71,4 @@ My foundation is built at **Ecole 42 Paris**, where everything is learned from t
 <div align="center">
 <i>"Build fast. Scale deep. Stay curious."</i>
 </div>
+</details>
