@@ -1,6 +1,9 @@
-# William | 42 Paris 🏛️
-**Focus:** `Rapid Prototyping` • `DevOps` • `AI Orchestration`
+# William | 42 Paris ⚡
+
+`Rapid Prototyping` • `DevOps` • `AI Orchestration`
+
 *I turn complex ideas into technical reality with speed and precision.*
+
 ---
 
 <details>
