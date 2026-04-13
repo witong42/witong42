@@ -8,9 +8,9 @@
 
 </div>
 
-`Rapid Prototyping` • `DevOps` • `AI Orchestration`
+`Rapid Prototyping` • `AI Red Teaming` • `AI Orchestration`
 
-*Learning to be a fast and efficient software architect in the era of AI • Interested in orchestration and DevOps automation.*
+*Learning to be a fast and efficient software architect in the era of AI • Interested in orchestration and Red Teaming.*
 
 <div align="center">
 
